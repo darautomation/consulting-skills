@@ -1,0 +1,19 @@
+# client data never goes to git
+calls/
+transcripts/
+recordings/
+*.m4a
+*.mp3
+*.mp4
+*.wav
+*.webm
+*.ogg
+clients.txt
+do_not_contact.txt
+call-copilot.config.md
+.env
+*.env
+__pycache__/
+*.pyc
+dist/
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "call-copilot",
+  "version": "0.1.0",
+  "description": "Pre-call brief, transcription, client recap, follow-up and progress tracking for coaches, psychologists, realtors, lawyers, consultants and any profession that lives on Zoom calls.",
+  "author": {
+    "name": "DAR (Dynamics, Automation, Results)",
+    "url": "https://github.com/darautomation"
+  },
+  "homepage": "https://github.com/darautomation/consulting-skills",
+  "repository": "https://github.com/darautomation/consulting-skills",
+  "license": "MIT",
+  "keywords": ["consulting", "zoom", "meeting-notes", "transcription", "crm", "coaching", "therapy", "real-estate"]
+}

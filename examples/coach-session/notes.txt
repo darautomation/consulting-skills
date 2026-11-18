@@ -1,0 +1,12 @@
+## Summary
+Daniel sent 4 applications (goal was 2). A recruiter invited him to a Product Manager interview at a fintech on Thursday. Main worry: the salary question. Current salary 62k, target 75k.
+
+## Decisions
+- Daniel names a range of 75-80k, not a single number.
+- He answers with market data, not with his current salary.
+
+## Next steps
+- Daniel: find 3 salary sources for PM roles in his city by Wednesday.
+- Daniel: rehearse the salary answer out loud twice.
+- Kate: send the negotiation checklist.
+- Next session: same time next week.

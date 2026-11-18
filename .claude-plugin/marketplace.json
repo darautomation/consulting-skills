@@ -1,0 +1,27 @@
+{
+  "name": "darautomation",
+  "owner": {
+    "name": "DAR (Dynamics, Automation, Results)",
+    "url": "https://github.com/darautomation"
+  },
+  "metadata": {
+    "description": "Claude Code skills for consultants and helping professions: pre-call briefs, call transcription, client recaps, follow-ups and progress tracking.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "call-copilot",
+      "source": "./plugins/call-copilot",
+      "description": "Pre-call brief, transcription, client recap, follow-up and progress tracking for coaches, psychologists, realtors, lawyers, consultants and any profession that lives on Zoom calls.",
+      "category": "productivity",
+      "keywords": ["consulting", "zoom", "meeting-notes", "transcription", "crm", "coaching", "therapy", "real-estate"]
+    },
+    {
+      "name": "advisor-copilot",
+      "source": "./plugins/advisor-copilot",
+      "description": "Financial advisor workflow: discovery brief, meeting recap, financial plan draft (goals, cashflow, three buckets, asset location), 13-meeting service year and annual review.",
+      "category": "productivity",
+      "keywords": ["financial-advisor", "wealth-management", "financial-planning", "family-office", "client-review"]
+    }
+  ]
+}

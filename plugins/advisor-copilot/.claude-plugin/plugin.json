@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "advisor-copilot",
+  "version": "0.1.0",
+  "description": "Financial advisor workflow: discovery brief, meeting recap, financial plan draft (goals, cashflow, three buckets, asset location), 13-meeting service year and annual review.",
+  "author": {
+    "name": "DAR (Dynamics, Automation, Results)",
+    "url": "https://github.com/darautomation"
+  },
+  "homepage": "https://github.com/darautomation/consulting-skills",
+  "repository": "https://github.com/darautomation/consulting-skills",
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "financial-planning", "family-office", "client-review"]
+}
