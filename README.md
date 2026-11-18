@@ -83,7 +83,7 @@ The open skills work on request, one call at a time. If you want it to run by it
 | Setup on your accounts, your voice, your CRM | | | ✅ |
 | Price | free, MIT | from $49 one-time | fixed price, [see site](https://finsave.online/en/ai/) |
 
-**Get Pro or book a setup:** Telegram [@deniscornerstone](https://t.me/deniscornerstone) · [finsave.online/en/ai](https://finsave.online/en/ai/)
+**Get Pro or book a setup:** message [@deniscornerstone](https://t.me/deniscornerstone) on Telegram with the words *Call Copilot Pro* (or *Call Copilot setup*). You get payment options for your country; the Pro archive and setup guide arrive right after payment. More about DAR: [finsave.online/en/ai](https://finsave.online/en/ai/)
 
 ## About DAR
 

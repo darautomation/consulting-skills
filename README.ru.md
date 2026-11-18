@@ -62,7 +62,7 @@ Whisper на тишине сочиняет «Продолжение следуе
 | Настройка на ваших аккаунтах, вашим голосом, под вашу CRM | | | ✅ |
 | Цена | бесплатно, MIT | от $49 разово | фиксированная, [на сайте](https://finsave.online/ai/) |
 
-**Купить Pro или заказать внедрение:** Telegram [@deniscornerstone](https://t.me/deniscornerstone) · [finsave.online/ai](https://finsave.online/ai/)
+**Купить Pro или заказать внедрение:** напишите в Telegram [@deniscornerstone](https://t.me/deniscornerstone) «Call Copilot Pro» (или «Call Copilot внедрение»). Пришлём способ оплаты для вашей страны, архив Pro и инструкция придут сразу после оплаты. Про DAR: [finsave.online/ai](https://finsave.online/ai/)
 
 ## Кто мы
 
